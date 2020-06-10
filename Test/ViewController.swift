@@ -12,6 +12,8 @@ class ViewController: UIViewController {
     
     var text = "abcABC"
     
+    var text2 = "Second branch"
+    
     override func viewDidLoad() {
         super.viewDidLoad()
         // Do any additional setup after loading the view.
